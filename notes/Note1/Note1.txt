@@ -1,0 +1,3 @@
+Não esquecer de marcar a opção "solid" no obj_colisao.
+
+Boa parte das sprites criadas tem sua 'origin' no 'middle center'
