@@ -44,6 +44,7 @@
     {"id":{"name":"obj_olhos","path":"objects/obj_olhos/obj_olhos.yy",},},
     {"id":{"name":"obj_pontuacao","path":"objects/obj_pontuacao/obj_pontuacao.yy",},},
     {"id":{"name":"obj_raquete_dois","path":"objects/obj_raquete_dois/obj_raquete_dois.yy",},},
+    {"id":{"name":"obj_raquete_tres","path":"objects/obj_raquete_tres/obj_raquete_tres.yy",},},
     {"id":{"name":"obj_raquete_um","path":"objects/obj_raquete_um/obj_raquete_um.yy",},},
     {"id":{"name":"rm_tela_de_menu","path":"rooms/rm_tela_de_menu/rm_tela_de_menu.yy",},},
     {"id":{"name":"rm_tela_de_partida","path":"rooms/rm_tela_de_partida/rm_tela_de_partida.yy",},},
