@@ -8,12 +8,14 @@
   "instanceCreationOrder":[
     {"name":"inst_4BDF8357","path":"rooms/rm_tela_de_menu/rm_tela_de_menu.yy",},
     {"name":"inst_41DDBF2F","path":"rooms/rm_tela_de_menu/rm_tela_de_menu.yy",},
+    {"name":"inst_2864B601","path":"rooms/rm_tela_de_menu/rm_tela_de_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":23,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_4BDF8357","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4BDF8357","objectId":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":207.0,},
         {"$GMRInstance":"v4","%Name":"inst_41DDBF2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_41DDBF2F","objectId":{"name":"obj_botao_modo","path":"objects/obj_botao_modo/obj_botao_modo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":276.0,},
+        {"$GMRInstance":"v4","%Name":"inst_2864B601","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2864B601","objectId":{"name":"obj_raquete_tres","path":"objects/obj_raquete_tres/obj_raquete_tres.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":184.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_6883093E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_6883093E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"x":320.0,"y":118.0,},
